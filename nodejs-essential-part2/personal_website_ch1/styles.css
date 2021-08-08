@@ -1,0 +1,11 @@
+body {
+    background-color: bisque;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    border: solid 2px bisque;
+    padding: 2px;
+    width: auto;
+}
